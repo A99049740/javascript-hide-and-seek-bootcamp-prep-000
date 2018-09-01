@@ -9,4 +9,4 @@ function increaseRankBy(n){
 function deepestChild(){
   
 }
-console.log(querySelectorAll())
+console.log(document.querySelector('div'))
